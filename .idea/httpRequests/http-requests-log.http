@@ -1,0 +1,244 @@
+GET http://localhost:3000/subscribers/5e921f800b91ce2034fcc20a
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Amazing Personnnnnnnnn"}
+
+<> 2020-04-11T025924.200.json
+
+###
+
+PATCH http://localhost:3000/subscribers/5e921f800b91ce2034fcc20a
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Amazing Personnnnnnnnn"}
+
+<> 2020-04-11T025918.200.json
+
+###
+
+PATCH http://localhost:3000/subscribers/5e921f800b91ce2034fcc20a
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Amazing Personnnnnnnnn"}
+
+###
+
+PATCH http://localhost:3000/subscribers/5e921f800b91ce2034fcc20a
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Amazing Personnnnnnnnn"}
+
+###
+
+GET http://localhost:3000/subscribers/5e921f800b91ce2034fcc20a
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Amazing Personnnnnnnnn", "subscribedToChannel": "Web Dev Simplified"}
+
+<> 2020-04-11T025818.200.json
+
+###
+
+PATCH http://localhost:3000/subscribers/5e921f800b91ce2034fcc20a
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Amazing Personnnnnnnnn", "subscribedToChannel": "Web Dev Simplified"}
+
+###
+
+GET http://localhost:3000/subscribers/5e921f800b91ce2034fcc20a
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Amazing Personnnnnnnnn", "subscribedToChannel": "Web Dev Simplified"}
+
+<> 2020-04-11T025336.200.json
+
+###
+
+GET http://localhost:3000/subscribers
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Amazing Personnnnnnnnn", "subscribedToChannel": "Web Dev Simplified"}
+
+<> 2020-04-11T025329.200.json
+
+###
+
+PATCH http://localhost:3000/subscribers
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Amazing Personnnnnnnnn", "subscribedToChannel": "Web Dev Simplified"}
+
+<> 2020-04-11T025306.404.html
+
+###
+
+POST http://localhost:3000/subscribers
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Amazing Person", "subscribedToChannel": "Web Dev Simplified"}
+
+<> 2020-04-11T025024.201.json
+
+###
+
+DELETE http://localhost:3000/subscribers/5e921aab92e6a54828ce025e
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Amazing Person", "subscribedToChannel": "Web Dev Simplified"}
+
+<> 2020-04-11T024937.200.json
+
+###
+
+GET http://localhost:3000/subscribers/5e921aab92e6a54828ce025a
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Amazing Person", "subscribedToChannel": "Web Dev Simplified"}
+
+<> 2020-04-11T024412.404.json
+
+###
+
+GET http://localhost:3000/subscribers/5e921aab92e6a54828ce025ee
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Amazing Person", "subscribedToChannel": "Web Dev Simplified"}
+
+<> 2020-04-11T024359.500.json
+
+###
+
+GET http://localhost:3000/subscribers
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Amazing Person", "subscribedToChannel": "Web Dev Simplified"}
+
+<> 2020-04-11T024339.200.json
+
+###
+
+GET http://localhost:3000/subscribers/5e921aab92e6a54828ce025e
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Amazing Person", "subscribedToChannel": "Web Dev Simplified"}
+
+<> 2020-04-11T024319.200.html
+
+###
+
+GET http://localhost:3000/subscribers/5e921aab92e6a54828ce025e
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Amazing Person", "subscribedToChannel": "Web Dev Simplified"}
+
+<> 2020-04-11T024113.500.html
+
+###
+
+GET http://localhost:3000/subscribers/5e921aab92e6a54828ce025e
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Amazing Person", "subscribedToChannel": "Web Dev Simplified"}
+
+<> 2020-04-11T024028.500.html
+
+###
+
+POST http://localhost:3000/subscribers
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Amazing Person", "subscribedToChannel": "Web Dev Simplified"}
+
+<> 2020-04-11T022947.201.json
+
+###
+
+POST http://localhost:3000/subscribers
+Accept: */*
+Cache-Control: no-cache
+
+{"name": "Amazing Person", "subscribedToChannel": "Web Dev Simplified"}
+
+<> 2020-04-11T022903.400.json
+
+###
+
+POST http://localhost:3000/subscribers
+Accept: */*
+Cache-Control: no-cache
+
+{"name": "Amazing Person", "subscribedToChannel": "Web Dev Simplified"}
+
+<> 2020-04-11T022847.400.json
+
+###
+
+GET http://localhost:3000/subscribers
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-04-11T022433.200.json
+
+###
+
+GET http://localhost:3000/subscribers/12
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-04-11T021802.200.html
+
+###
+
+GET http://localhost:3000/3
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-04-11T021747.404.html
+
+###
+
+GET http://localhost:3000/subscribers
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-04-11T021352.200.html
+
+###
+

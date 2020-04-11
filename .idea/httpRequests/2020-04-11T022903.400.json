@@ -1,0 +1,3 @@
+{
+  "message": "Subscriber validation failed: name: Path `name` is required., subscribedToChannel: Path `subscribedToChannel` is required."
+}
